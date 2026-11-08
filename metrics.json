@@ -1,0 +1,92 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.964912,
+    "auc": 0.996032,
+    "precision": 0.975,
+    "recall": 0.928571,
+    "f1": 0.95122,
+    "mcc": 0.924518,
+    "confusion_matrix": [
+      [
+        71,
+        1
+      ],
+      [
+        3,
+        39
+      ]
+    ]
+  },
+  "Decision Tree": {
+    "accuracy": 0.921053,
+    "auc": 0.894841,
+    "precision": 0.923077,
+    "recall": 0.857143,
+    "f1": 0.888889,
+    "mcc": 0.829162,
+    "confusion_matrix": [
+      [
+        69,
+        3
+      ],
+      [
+        6,
+        36
+      ]
+    ]
+  },
+  "KNN": {
+    "accuracy": 0.95614,
+    "auc": 0.982474,
+    "precision": 0.974359,
+    "recall": 0.904762,
+    "f1": 0.938272,
+    "mcc": 0.905824,
+    "confusion_matrix": [
+      [
+        71,
+        1
+      ],
+      [
+        4,
+        38
+      ]
+    ]
+  },
+  "Naive Bayes": {
+    "accuracy": 0.938596,
+    "auc": 0.993386,
+    "precision": 1.0,
+    "recall": 0.833333,
+    "f1": 0.909091,
+    "mcc": 0.871489,
+    "confusion_matrix": [
+      [
+        72,
+        0
+      ],
+      [
+        7,
+        35
+      ]
+    ]
+  },
+  "Support Vector Machine": {
+    "accuracy": 0.973684,
+    "auc": 0.994709,
+    "precision": 1.0,
+    "recall": 0.928571,
+    "f1": 0.962963,
+    "mcc": 0.944155,
+    "confusion_matrix": [
+      [
+        72,
+        0
+      ],
+      [
+        3,
+        39
+      ]
+    ]
+  }
+}
