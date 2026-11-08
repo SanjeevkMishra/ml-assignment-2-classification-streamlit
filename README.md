@@ -23,7 +23,7 @@ the target column so that the app can calculate evaluation metrics.
 
 ## GitHub repository
 
-`<PASTE_GITHUB_REPOSITORY_URL_HERE>`
+https://github.com/SanjeevkMishra/ml-assignment-2-classification-streamlit.git
 
 ## Models and evaluation
 
