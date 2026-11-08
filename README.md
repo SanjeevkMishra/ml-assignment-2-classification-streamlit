@@ -68,7 +68,7 @@ streamlit run app.py
 
 ## Streamlit application
 
-`<PASTE_STREAMLIT_APP_URL_HERE>`
+https://ml-assignment-2-classification-app-sanjeevmishra-2026ak05224.streamlit.app/
 
 The app supports CSV upload, model selection, metric display, a confusion
 matrix, and a classification report. It loads saved models and never retrains
